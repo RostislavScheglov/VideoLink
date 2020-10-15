@@ -1,0 +1,96 @@
+<svg width="1440" height="649" viewBox="0 0 1440 649" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1440" height="649" fill="#041F3D"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="649">
+<rect width="1440" height="649" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path opacity="0.3" d="M603.661 425.507C605.108 421.166 610.796 420.163 613.64 423.748L629.745 444.043C632.459 447.463 630.532 452.54 626.233 453.298L601.935 457.583C597.636 458.341 594.089 454.228 595.469 450.087L603.661 425.507Z" fill="white"/>
+<path opacity="0.13" d="M536.355 599.141C538.464 600.815 537.874 604.161 535.32 605.012L523.696 608.887C521.259 609.699 518.84 607.612 519.286 605.082L521.312 593.592C521.758 591.062 524.745 589.928 526.757 591.525L536.355 599.141Z" fill="white"/>
+<path opacity="0.13" d="M285.354 44.1409C287.464 45.8147 286.874 49.161 284.319 50.0125L272.695 53.8867C270.258 54.6989 267.839 52.6115 268.285 50.082L270.311 38.5916C270.757 36.062 273.745 34.9281 275.757 36.5247L285.354 44.1409Z" fill="white"/>
+<path opacity="0.1" d="M765.077 97.4794C770.039 94.4307 776.404 98.1053 776.244 103.927L775.52 130.417C775.368 135.97 769.336 139.344 764.525 136.566L742.67 123.949C737.859 121.171 737.765 114.26 742.498 111.352L765.077 97.4794Z" fill="white"/>
+<path opacity="0.3" d="M967.527 56.9796C970.336 60.1471 968.509 65.1675 964.321 65.7884L949.12 68.0421C945.125 68.6344 941.948 64.7417 943.329 60.9468L948.334 47.1955C949.716 43.4005 954.651 42.4605 957.331 45.482L967.527 56.9796Z" fill="white"/>
+<rect x="804.826" y="237.365" width="487.314" height="323" transform="rotate(-20 804.826 237.365)" fill="#000911" stroke="#161628"/>
+<rect x="815.992" y="217.292" width="487.314" height="323" transform="rotate(-20 815.992 217.292)" fill="white" stroke="black"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="1211" y="115" width="33" height="34">
+<circle cx="1227.67" cy="132.098" r="12.4316" transform="rotate(-20 1227.67 132.098)" fill="#C4C4C4" stroke="black" stroke-width="0.428571"/>
+</mask>
+<g mask="url(#mask1)">
+<circle cx="1231.57" cy="142.817" r="9.17449" transform="rotate(-20 1231.57 142.817)" fill="#1EE4D9"/>
+<circle cx="1226.82" cy="129.768" r="3.22347" transform="rotate(-20 1226.82 129.768)" fill="#DFDFE3"/>
+<ellipse cx="1228.76" cy="134.866" rx="2.31429" ry="0.578571" transform="rotate(-20 1228.76 134.866)" fill="#1C1B1B"/>
+</g>
+<circle cx="1227.67" cy="132.098" r="12.2959" transform="rotate(-20 1227.67 132.098)" stroke="black" stroke-width="0.7"/>
+<rect x="856.147" y="260.393" width="115.014" height="14.3429" transform="rotate(-20 856.147 260.393)" stroke="black" stroke-width="0.7"/>
+<rect x="872.566" y="305.065" width="247.786" height="25.6143" transform="rotate(-20 872.566 305.065)" stroke="black"/>
+<rect x="1131.36" y="210.872" width="165.629" height="76.5286" transform="rotate(-20 1131.36 210.872)" fill="white" stroke="black"/>
+<path d="M1172.54 335.626C1171.03 331.474 1173.17 326.883 1177.32 325.372L1318.86 273.854C1323.02 272.343 1327.61 274.483 1329.12 278.635L1357.29 356.026C1358.8 360.177 1356.66 364.768 1352.5 366.279L1203.44 420.534L1172.54 335.626Z" fill="#1EE4D9"/>
+<rect x="889.98" y="352.908" width="186.457" height="25.6143" transform="rotate(-20 889.98 352.908)" stroke="black"/>
+<line x1="932.802" y1="475.407" x2="1166.58" y2="390.317" stroke="black"/>
+<line x1="921.721" y1="444.961" x2="1098.96" y2="380.451" stroke="black"/>
+<circle cx="840.86" cy="226.18" r="5.28571" transform="rotate(-20 840.86 226.18)" fill="white" stroke="black"/>
+<circle cx="858.257" cy="219.848" r="5.28571" transform="rotate(-20 858.257 219.848)" fill="white" stroke="black"/>
+<circle cx="875.655" cy="213.516" r="5.28571" transform="rotate(-20 875.655 213.516)" fill="white" stroke="black"/>
+<line x1="1252.41" y1="115.26" x2="1270.9" y2="108.532" stroke="black"/>
+<line x1="1254.79" y1="121.784" x2="1273.27" y2="115.056" stroke="black"/>
+<line x1="1257.56" y1="129.395" x2="1276.04" y2="122.667" stroke="black"/>
+<rect x="801.775" y="443.588" width="179.55" height="56.7" transform="rotate(-20 801.775 443.588)" fill="#000911"/>
+<rect x="808.344" y="433.109" width="178.55" height="55.7" transform="rotate(-20 808.344 433.109)" fill="white" stroke="black"/>
+<line x1="870.102" y1="424.652" x2="966.095" y2="389.713" stroke="black"/>
+<line x1="874.951" y1="437.971" x2="970.944" y2="403.033" stroke="black"/>
+<line x1="879.799" y1="451.292" x2="975.793" y2="416.353" stroke="black"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="824" y="426" width="45" height="45">
+<circle cx="846.856" cy="448.61" r="16.7125" transform="rotate(-20 846.856 448.61)" fill="#C4C4C4" stroke="black"/>
+</mask>
+<g mask="url(#mask2)">
+<circle cx="852.165" cy="463.199" r="12.4875" transform="rotate(-20 852.165 463.199)" fill="#1EE4D9"/>
+<circle cx="845.7" cy="445.439" r="4.3875" transform="rotate(-20 845.7 445.439)" fill="#DFDFE3"/>
+<ellipse cx="848.123" cy="452.099" rx="2.3625" ry="0.675" transform="rotate(-20 848.123 452.099)" fill="black"/>
+</g>
+<circle cx="846.771" cy="449.222" r="16.8625" transform="rotate(-20 846.771 449.222)" stroke="black" stroke-width="0.7"/>
+<line x1="828.832" y1="247.266" x2="1285.52" y2="81.0437" stroke="black"/>
+<path d="M1409.2 361.65L1406.83 355.126L1393.78 366.647L1401.4 370.649L1409.2 361.65Z" fill="#161628"/>
+<path d="M1408.12 362.046L1331.35 352.43L1375.8 411.981L1385.39 394.331L1398.79 402.384L1410.4 385.228L1397.4 378.263L1408.12 362.046Z" fill="#002140" stroke="#161628"/>
+<path d="M1329.87 351.738L1326.9 343.583L1333.67 350.353L1334.12 353.269L1329.87 351.738Z" fill="#161628"/>
+<path d="M1405.74 355.522L1328.38 344.275L1374.12 403.973L1383.01 387.807L1396.41 395.86L1408.02 378.704L1395.02 371.738L1405.74 355.522Z" fill="white" stroke="#161628"/>
+<line x1="925.207" y1="683.117" x2="859.905" y2="503.703" stroke="#002140" stroke-width="1.3" stroke-dasharray="10 10"/>
+<line x1="1320.32" y1="340.009" x2="1293.65" y2="317.778" stroke="black"/>
+<line x1="1313.36" y1="348.784" x2="1289.43" y2="344.564" stroke="black"/>
+<line y1="-0.5" x2="24.3" y2="-0.5" transform="matrix(-0.34202 -0.939693 -0.939693 0.34202 1328.18 332.768)" stroke="black"/>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="1127" y="154" width="184" height="131">
+<rect x="1128.1" y="212.059" width="165.629" height="76.5286" transform="rotate(-20 1128.1 212.059)" fill="white" stroke="black"/>
+</mask>
+<g mask="url(#mask3)">
+<line x1="1148.28" y1="289.894" x2="1286.95" y2="153.227" stroke="black"/>
+<line y1="-0.5" x2="194.693" y2="-0.5" transform="matrix(-0.9968 -0.0799357 -0.0799357 0.9968 1314.21 227.523)" stroke="black"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1055.36 866.243L833.277 762.682L1158.93 644.155L1055.36 866.243Z" stroke="#090919" stroke-width="0.5"/>
+<rect x="804.826" y="659.365" width="487.314" height="323" transform="rotate(-20 804.826 659.365)" fill="#161628" stroke="#161628"/>
+<rect x="815.991" y="639.292" width="487.314" height="323" transform="rotate(-20 815.991 639.292)" fill="white" stroke="black"/>
+<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="1211" y="537" width="33" height="34">
+<circle cx="1227.67" cy="554.098" r="12.4316" transform="rotate(-20 1227.67 554.098)" fill="#C4C4C4" stroke="black" stroke-width="0.428571"/>
+</mask>
+<g mask="url(#mask4)">
+<circle cx="1231.57" cy="564.817" r="9.17449" transform="rotate(-20 1231.57 564.817)" fill="#1EE4D9"/>
+<circle cx="1226.82" cy="551.769" r="3.22347" transform="rotate(-20 1226.82 551.769)" fill="#DFDFE3"/>
+<ellipse cx="1228.76" cy="556.866" rx="2.31429" ry="0.578571" transform="rotate(-20 1228.76 556.866)" fill="#1C1B1B"/>
+</g>
+<circle cx="1227.67" cy="554.098" r="12.2959" transform="rotate(-20 1227.67 554.098)" stroke="black" stroke-width="0.7"/>
+<rect x="856.147" y="682.393" width="115.014" height="14.3429" transform="rotate(-20 856.147 682.393)" stroke="black" stroke-width="0.7"/>
+<rect x="872.566" y="727.065" width="247.786" height="25.6143" transform="rotate(-20 872.566 727.065)" stroke="black"/>
+<rect x="1131.36" y="632.872" width="165.629" height="76.5286" transform="rotate(-20 1131.36 632.872)" fill="white" stroke="black"/>
+<circle cx="840.859" cy="648.18" r="5.28571" transform="rotate(-20 840.859 648.18)" fill="white" stroke="black"/>
+<circle cx="858.257" cy="641.848" r="5.28571" transform="rotate(-20 858.257 641.848)" fill="white" stroke="black"/>
+<circle cx="875.655" cy="635.516" r="5.28571" transform="rotate(-20 875.655 635.516)" fill="white" stroke="black"/>
+<line x1="1252.41" y1="537.26" x2="1270.9" y2="530.532" stroke="black"/>
+<line x1="1254.79" y1="543.784" x2="1273.27" y2="537.056" stroke="black"/>
+<line x1="1257.56" y1="551.395" x2="1276.04" y2="544.667" stroke="black"/>
+<line x1="828.831" y1="669.266" x2="1285.52" y2="503.044" stroke="black"/>
+<mask id="mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="1127" y="576" width="184" height="131">
+<rect x="1128.1" y="634.06" width="165.629" height="76.5286" transform="rotate(-20 1128.1 634.06)" fill="white" stroke="black"/>
+</mask>
+<g mask="url(#mask5)">
+<line x1="1148.28" y1="711.894" x2="1286.95" y2="575.227" stroke="black"/>
+<line y1="-0.5" x2="194.693" y2="-0.5" transform="matrix(-0.9968 -0.0799357 -0.0799357 0.9968 1314.21 649.524)" stroke="black"/>
+</g>
+</g>
+</svg>
